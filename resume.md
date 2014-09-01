@@ -1,6 +1,7 @@
 ## Вакансия: стажер Python
 
 Борислав Козловский
+
 Москва
 
 ## Опыт работы: 
@@ -15,9 +16,9 @@
 
 ## Дополнительное образование:
 
-Udacity: Georgia Tech -- Introduction to Computer Science [Python] (введение в Python) - 2013
+Udacity: Georgia Tech -- Introduction to Computer Science (введение в Python) - 2013
 
-Udacity: Georgia Tech -- Introduction to Object Oriented Programming [Python] (ООП) - 2014
+Udacity: Georgia Tech -- Introduction to Object Oriented Programming (ООП, Python) - 2014
 
 Coursera: Stanford -- Algorithms. Design and Analysis. Part 1 (вводный курс по алгоритмам) - 2014
 
